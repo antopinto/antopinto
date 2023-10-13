@@ -1,0 +1,3 @@
+Para esta tarea la actividad que escogí fue el uso diario de de la aplicación Tik Tok, desde el 1 de Octubre hasta el 10 de Octubre.
+
+Los datos fueron recolectados por el sistema de mi teléfono celular donde está instalada la aplicación, para luego ser extraídos y tabulados en Excel. En este proceso modifiqué algunas cosas, ya que al principio decidí agrgar las horas y los minutos de uso como una misma variable, "tiempo de uso", pero resultaba engorroso a la vista y no se entendía muy bien. Por ende los separé en "horas" / "minutos" para simplificarlo. Después guardé el archivo en formato csv.
